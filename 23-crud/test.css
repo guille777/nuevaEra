@@ -1,0 +1,21 @@
+/* Lynk de html para hacer formularios con diseño, ir ampliando a mejor */
+*{
+  margin: 6px;
+  padding: 6px;
+}
+body{
+  background: url(fondo2.jpg);
+  }
+form{
+  background: #333333;
+  width: 360px;
+  border: 5px solid #4e4d4d;
+  margin: 100px auto;
+}
+form h1{
+  color: red;
+  text-align: center;
+}
+.medio{
+  text-align: center;
+}
